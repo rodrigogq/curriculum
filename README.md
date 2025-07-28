@@ -1,6 +1,6 @@
 # Rodrigo Ghirelli de Queiroz
 
-![Rodrigo Ghirelli de Queiroz Picture](rodrigogq-picture-s.jpg)
+![Rodrigo Ghirelli de Queiroz Picture](img/rodrigogq-picture-s.jpg)
 
 **Cluster Technical Lead | Data Platform Architect | DevOps & AI Infrastructure Expert**  
 - Heilbronn, Germany
@@ -11,9 +11,11 @@
 ## 👔 Professional Summary
 Experienced technical leader in data and DevOps engineering, with a background in large-scale software development, cloud infrastructure, and data platforms for AI/ML use cases. Over the past several years, evolved from DevOps Engineer to Cluster Technical Lead, overseeing the development of data management platforms for data governance. Known for bridging software architecture with team coordination, and aligning development efforts with long-term data strategy.
 
+<!--
 ## 🎯 Career Objective
 
 To continue contributing as a technical leader in data engineering and AI-enabling platforms, combining  architectural clarity with team-oriented execution. Open to hybrid roles in international environments, with a focus on long-term technical growth.
+-->
 
 ## 💼 Professional Experience
 
